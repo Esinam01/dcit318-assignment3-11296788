@@ -1,0 +1,5 @@
+101, Alice Smith, 84
+102, Bob Johnson, 73
+103, Clara Adams, 45
+104, David Lee, 66
+105, Emma Brown, 92
